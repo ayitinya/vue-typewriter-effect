@@ -2,6 +2,7 @@ export default {
     title: 'Vue Typewriter Effect',
     description: 'A Vue wrapper for the typewriter-effect',
     lastUpdated: true,
+    base: '/vue-typewriter-effect/',
     themeConfig: {
         sidebar: [
             {
