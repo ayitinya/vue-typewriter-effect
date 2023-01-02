@@ -25,6 +25,7 @@
     "vue-typewriter-effect",
     "vue3-typewriter-effect"
   ],
+  "homepage": "https://ayitinya.github.io/vue-typewriter-effect/",
   "bugs": {
     "url": "https://github.com/ayitinya/vue-typewriter-effect/issues",
     "email": "contact@ayitinya.me"
@@ -33,7 +34,7 @@
     "type": "git",
     "url": "https://github.com/ayitinya/vue-typewriter-effect"
   },
-  "license": "MIT",
+  "license": "Apache-2.0",
   "author": {
     "name": "Rudy Ayitinya Sulley",
     "email": "contact@ayitinya.me",
