@@ -1,7 +1,14 @@
 <script setup lang="ts">
-import TypeWriterVue from "./components/TypeWriter.vue";
+import TypewriterEffect from "./components/TypewriterEffect.vue";
 </script>
 
 <template>
-  <TypeWriterVue :strings="['what', 'am', 'i', 'doing']" />
+  <TypewriterEffect class="bg-red" />
 </template>
+
+<style scoped>
+.bg-red {
+  background-color: red;
+  font-size: 30px;
+}
+</style>

@@ -1,7 +1,3 @@
-import TypeWriter from "./components";
+import TypewriterEffect from "./components/TypewriterEffect.vue";
 
-export default {
-  install(Vue: { component: (arg0: string, arg1: any) => void }) {
-    Vue.component("TypeWriter", TypeWriter);
-  },
-};
+export default TypewriterEffect;

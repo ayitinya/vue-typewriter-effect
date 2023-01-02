@@ -38,3 +38,6 @@ __tests__
 ./*.ts
 env.d.ts
 vite.config.ts
+
+dist/*.svg
+vite-env.d.ts
