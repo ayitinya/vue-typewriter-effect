@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "declarationDir": "lib",
+    "sourceMap": true,
+    "declaration": false,
+    "importHelpers": true,
+    "strict": true,
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.vue"
+  ],
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.config.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    },
+    {
+      "path": "./tsconfig.vitest.json"
+    }
+  ]
+}
