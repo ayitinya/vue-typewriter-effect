@@ -26,17 +26,18 @@
     "vue3-typewriter-effect"
   ],
   "bugs": {
-    "url": "https://github.com/",
+    "url": "https://github.com/ayitinya/vue-typewriter-effect/issues",
     "email": "contact@ayitinya.me"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ayitinya/vue-typewriter-effect"
   },
   "license": "MIT",
   "author": {
     "name": "Rudy Ayitinya Sulley",
-    "email": "contact@ayitinya.me"
+    "email": "contact@ayitinya.me",
+    "url": "https://ayitinya.me"
   },
   "scripts": {
     "dev": "vite",
