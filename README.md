@@ -54,6 +54,7 @@ Use the component in your template:
 
 | Name | Type | Default | Description |
 | --- | --- | --- | --- |
+| element | `String` | `span` | The HTML element to use for the wrapper. |
 | strings | `Array` | `["Hello", "World"]` |Strings to type out when using autoStart option |
 | cursor | `String` | `pipe character` | String value to use as the cursor. |
 | delay | `Number` | `natural` | `natural` | The delay between each key when typing. |
