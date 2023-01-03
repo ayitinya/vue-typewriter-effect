@@ -6,7 +6,7 @@ export default defineConfig({
     lastUpdated: true,
     base: '/vue-typewriter-effect/',
     head: [
-        ['meta', { name: 'google-site-verification', content: 'onpD-kiujyUqtBDe3H5b' }]
+        ['meta', { name: 'google-site-verification', content: 'onpD-kiujyUqtBDe3H5b3XUsxmo6sEriHcamATCYOvI' }]
     ],
     themeConfig: {
         sidebar: [
