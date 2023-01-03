@@ -74,7 +74,7 @@ export default defineComponent({
       typewriter.start();
     });
 
-    return () => h(props.element, { id: "typewriter" });
+    return () => h(props.element, { id: "typewriter" }, `${props.strings[0]}`);
   },
 });
 </script>

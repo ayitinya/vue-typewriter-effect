@@ -3,7 +3,11 @@ import TypewriterEffect from "./components/TypewriterEffect.vue";
 </script>
 
 <template>
-  <TypewriterEffect class="bg-red" />
+  <div>
+    <p>Vue typewriter effect</p>
+    <TypewriterEffect class="bg-red" />
+    <p>Vue typewriter effect</p>
+  </div>
 </template>
 
 <style scoped>
